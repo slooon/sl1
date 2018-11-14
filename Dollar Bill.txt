@@ -1,1 +1,2 @@
 print("Hello Dollar Bill");
+print("Go to centr");
